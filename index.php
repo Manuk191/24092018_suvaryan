@@ -10,6 +10,7 @@
     <body>
         <h1>ПРОЕКТ №3</h1>
         <p>Новый параграф</p>
+        <p>Новый параграф 2</p>
         <script src="/js/main.js"></script>
     </body>
 </html>
